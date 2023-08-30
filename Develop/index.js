@@ -38,7 +38,21 @@ const questions = [
         name: "contribution"
     },
     {
-        
+        type: "input",
+        message: "what command should be run for testing?",
+        name: "tests"
+    },
+    {
+        type: "list",
+        message: "what kind of license should your project have?",
+        name: "license",
+        choices: [
+            "MIT",
+            "APACHE",
+            "GPL",
+            "BSD",
+            "NONE"
+        ]
     }
 ];
 
