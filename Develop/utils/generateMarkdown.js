@@ -20,6 +20,26 @@ ${data.description}
 6. [Questions](#questions)
 
 
+## Installation
+To install the necessary dependencies, run the follow command: 
+${data.installation}
+
+## Usage
+${data.usage}
+
+## License
+This project is licensed under the ${data.license} license.
+
+## Contributing 
+${data.contribution}
+
+## Tests
+To run tests, run the following command: 
+${data.tests}
+
+## Questions
+if you have any questions about this repo, contact me at [${data.email}](mailto:${data.email}). Find more of my work at [${data.username}](https://www.github.com/${data.username}).
+
 
 
 
