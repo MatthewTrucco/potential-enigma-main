@@ -18,7 +18,18 @@ const questions = [
         name: "title"
     },
     {
-        
+        type: "input",
+        message: "Write a short description of the project",
+        name: "description"   
+    },
+    {
+        type: "input",
+        message: "What command should be run to install dependencies?",
+        name: "installation"
+    },
+    {
+        type: "input",
+        message
     }
 ];
 
