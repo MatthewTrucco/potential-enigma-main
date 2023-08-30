@@ -40,29 +40,6 @@ ${data.tests}
 ## Questions
 if you have any questions about this repo, contact me at [${data.email}](mailto:${data.email}). Find more of my work at [${data.username}](https://www.github.com/${data.username}).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 `;
 }
 
