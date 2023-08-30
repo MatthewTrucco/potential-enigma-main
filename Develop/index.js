@@ -29,7 +29,16 @@ const questions = [
     },
     {
         type: "input",
-        message
+        message: "What does the user need to know about using the repo?",
+        name: "usage"
+    },
+    {
+        type: "input",
+        message: "What does the user need to know about contributing to the repo?",
+        name: "contribution"
+    },
+    {
+        
     }
 ];
 
